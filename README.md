@@ -2,7 +2,7 @@
 
 https://t.me/PSL_AI_bot
 
-![Иллюстрация к проекту]([https://example.com/image.png](https://raw.githubusercontent.com/PSLSP/AI-assistant/refs/heads/main/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%201.bmp))
+![Иллюстрация к проекту](https://github.com/PSLSP/AI-assistant/blob/main/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA%201.png?raw=true)
 
 ## Описание проекта
 
